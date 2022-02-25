@@ -25,3 +25,10 @@
     outline: none;
     background-color: lightyellow;
 }
+
+.Invalid {
+    border: 1px solid red;
+    background-color: lightsalmon;
+}
+
+.errorMessage { color: red; text-align: left; margin-bottom: 0px;}
